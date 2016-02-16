@@ -1,6 +1,4 @@
 
  Hello World!
-:wq
-:q
-:w
 
+ Readme.txt file
